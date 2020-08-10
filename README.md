@@ -91,7 +91,7 @@ Our results by class and overall were as follows:
     
     mAP = 33.19%
     
-The results are pretty solid for no parameter optimization. The train class AP of 0.00% hurt the performance but this was expected as there were only 136 instances of a train in the training dataset. As opposed to car which had 713,211 instances and performed the best.
+The results are pretty solid for no parameter optimization. The train class AP of 0.00% hurt the performance but this was expected as there were only 136 instances of a train in the training dataset. As opposed to car which had 713,211 instances and performed the best @ 58.96%.
 
 
 ### Future Work
