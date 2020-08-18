@@ -1,7 +1,7 @@
 # Berkeley Deep Drive Object Detection
 
 
-This is the implementation of YOLOv3 for object detection using the darknet framework in Google Colab on the [Berkeley Deep Drive]<https://bdd-data.berkeley.edu/> dataset. The goal of this project is to successfully train the YOLOv3 network to detect the 10 classes of the BDD. These classes include:
+This is the implementation of YOLOv3 for object detection using the darknet framework in Google Colab on the [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) dataset. The goal of this project is to successfully train the YOLOv3 network to detect the 10 classes of the BDD. These classes include:
 1. bike
 2. bus
 3. car
@@ -106,12 +106,12 @@ An example of a detected video can be found [here]<https://drive.google.com/file
 
 ### References
 
-1. [Berkeley Deep Drive]<https://bdd-data.berkeley.edu/>
-2. [Autonomy : The Quest to Build the Driverless Car - And How It Will Reshape Our World]<https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124>
-3. [YOLOv3: An Incremental Improvement]<https://pjreddie.com/media/files/papers/YOLOv3.pdf>
-4. [YOLOv3 in the Cloud]<https://www.youtube.com/watch?v=10joRJt39Ns&t=2175s>
-5. [Darknet Repository]<https://github.com/AlexeyAB/darknet>
-6. [Real-time object detection for autonmous vehicles using deep learning]<https://uu.diva-portal.org/smash/get/diva2:1356309/FULLTEXT01.pdf>
+1. [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+2. [Autonomy : The Quest to Build the Driverless Car - And How It Will Reshape Our World](https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124)
+3. [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+4. [YOLOv3 in the Cloud](https://www.youtube.com/watch?v=10joRJt39Ns&t=2175s)
+5. [Darknet Repository](https://github.com/AlexeyAB/darknet)
+6. [Real-time object detection for autonmous vehicles using deep learning](https://uu.diva-portal.org/smash/get/diva2:1356309/FULLTEXT01.pdf)
   
       
   
