@@ -95,7 +95,7 @@ The results are pretty solid for no parameter optimization. The train class AP o
 
 ### Example Video
 
-An example of a detected video can be found [here]<https://drive.google.com/file/d/1--sB-B52x4NEsir9XkJZKQeYIplMaQep/view?usp=sharing>. 
+An example of a detected video can be found [here](https://drive.google.com/file/d/1--sB-B52x4NEsir9XkJZKQeYIplMaQep/view?usp=sharing). 
 
 ### Future Work
 1. Explore parameter optimization to see how performance can be improved.
