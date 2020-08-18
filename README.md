@@ -1,7 +1,7 @@
 # Berkeley Deep Drive Object Detection
 
 
-This is the implementation of YOLOv3 for object detection using the darknet framework in Google Colab on the Berkeley Deep Drive dataset. The goal of this project is to successfully train the YOLOv3 network to detect the 10 classes of the BDD. These classes include:
+This is the implementation of YOLOv3 for object detection using the darknet framework in Google Colab on the [Berkeley Deep Drive]<https://bdd-data.berkeley.edu/> dataset. The goal of this project is to successfully train the YOLOv3 network to detect the 10 classes of the BDD. These classes include:
 1. bike
 2. bus
 3. car
