@@ -93,6 +93,9 @@ Our results by class and overall were as follows:
     
 The results are pretty solid for no parameter optimization. The train class AP of 0.00% hurt the performance but this was expected as there were only 136 instances of a train in the training dataset. As opposed to car which had 713,211 instances and performed the best @ 58.96%.
 
+### Example Video
+
+An example of a detected video can be found [here]<https://drive.google.com/file/d/1--sB-B52x4NEsir9XkJZKQeYIplMaQep/view?usp=sharing>. 
 
 ### Future Work
 1. Explore parameter optimization to see how performance can be improved.
@@ -101,7 +104,14 @@ The results are pretty solid for no parameter optimization. The train class AP o
 
 3. Train for longer. 
 
+### References
 
+1. [Berkeley Deep Drive]<https://bdd-data.berkeley.edu/>
+2. [Autonomy : The Quest to Build the Driverless Car - And How It Will Reshape Our World]<https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124>
+3. [YOLOv3: An Incremental Improvement]<https://pjreddie.com/media/files/papers/YOLOv3.pdf>
+4. [YOLOv3 in the Cloud]<https://www.youtube.com/watch?v=10joRJt39Ns&t=2175s>
+5. [Darknet Repository]<https://github.com/AlexeyAB/darknet>
+6. [Real-time object detection for autonmous vehicles using deep learning]<https://uu.diva-portal.org/smash/get/diva2:1356309/FULLTEXT01.pdf>
   
       
   
