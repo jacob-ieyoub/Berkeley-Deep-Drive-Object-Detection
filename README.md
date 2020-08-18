@@ -100,9 +100,11 @@ An example of a detected video can be found [here](https://drive.google.com/file
 ### Future Work
 1. Explore parameter optimization to see how performance can be improved.
 
-2. Use other self-driving datasets in unison with BDD for training so that it might be improved (KITTI, etc.)
+2. Use other self-driving datasets in unison with BDD for training so that it might be improved (KITTI, etc.) and so that classes with small sample sizes, like train, can get more samples.
 
-3. Train for longer. 
+3. Incorporate object tracking.
+
+4. Experiment with newer versions of YOLO.
 
 ### References
 
